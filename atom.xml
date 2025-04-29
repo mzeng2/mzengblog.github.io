@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ming记录</title>
+  
+  
+  <link href="http://mzengblog.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://mzengblog.github.io/"/>
+  <updated>2025-04-29T02:39:40.781Z</updated>
+  <id>http://mzengblog.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>胶片相机体验</title>
+    <link href="http://mzengblog.github.io/2025/04/05/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%93%E9%AA%8C/"/>
+    <id>http://mzengblog.github.io/2025/04/05/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%93%E9%AA%8C/</id>
+    <published>2025-04-04T16:00:00.000Z</published>
+    <updated>2025-04-29T02:39:40.781Z</updated>
+    
+    <content type="html"><![CDATA[<img src= "/pics/20241100.webp"><span id="more"></span>胶片相机的热度在近几年居高不下，许多明星和KOL的炒作，叠加社交媒体的传播，二手胶片相机的价格特别离谱。在用了多年的模拟胶片成像app后，我还是决定由虚转实，试试真实的胶片相机。我决定购买不超过3台相机。价格始终是我做出购买决定的重要原因，自2024年底以来，陆续在闲鱼收了两台胶片相机，且价格都非常合适，现在正好做个总结。<ul><li>Nikon L35AD</li></ul><p>这款相机是朋友推荐的，<a href="https://imaging.nikon.com/imaging/information/story/0033/">查阅资料</a>后发现这台机器的镜头不错，35毫米2.8光圈， 也可以手动调节iso范围，最小200、最大1000。在二手平台搜索一圈，最终380元买下了，成色也还不错，闪光灯不工作了，但影响不大。取景器有些污渍和瑕疵，但也不重要了。拿到手后先试拍一卷黑白胶卷，乐凯400。多年的手机摄影突然转到胶片相机拍照，最大的感受是自己的手太抖了。三分之一的照片出现了抖动和虚焦，我安慰自己，多多练习应该就好。另外，这台相机的快门比较硬，需要费一点力才能激活快门，这也对最终成像造成影响。</p><img src= "/pics/20241101.webp" width=60%><p>胶片相机另一个吸引我的方面是它的机械结构。有一篇<a href="https://richardhaw.com/2021/01/10/repair-nikon-l35af-ad/">文章</a>详细介绍了整台机器的拆解流程，看完后决定尝试一次小型拆卸。在拆卸前，我采购了一些新螺丝，以替换原来生锈的旧部件。按照文章介绍的方法拆下各个部件，一切顺利，同时对相机内部做了一番清洁。很快，相机又复原了。但不幸的是相机的回卷功能失效了，按下手动回卷按钮后没有任何反应。网上也搜索不到如何修复，只好找个时间请人维修了。</p><ul><li>理光 R10</li></ul><p>偶然搜索到这台相机，热度低价格便宜，对理光的成像比较有信心，没多考虑就下单了，80元购入。机身小巧，对焦迅速，但机身顶部的液晶屏漏液，看不到任何有关拍摄模式或胶片数量的信息了，这个问题似乎是通病，不过问题不大。接下来会长期使用这台机器。</p><img src= "/pics/20241102.webp" width=75%><p>最后，谈谈胶卷，总的来说价格还是太贵。假设扫描仪不变，成像效果其实差不多，柯达金200或是巨星200都可以满足日常使用，选便宜的即可。我个人偏好诺日士QS3233的泛黄效果，复古感十足。</p><p>胶片终究是个小众的爱好，小酌即可，贪杯可要小心钱包了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;img src= &quot;/pics/20241100.webp&quot;&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World-博客上线记录</title>
+    <link href="http://mzengblog.github.io/2024/02/09/hello-world/"/>
+    <id>http://mzengblog.github.io/2024/02/09/hello-world/</id>
+    <published>2024-02-08T16:00:00.000Z</published>
+    <updated>2025-04-29T02:17:18.303Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客项目文件的创建时间停留在2024年2月，今天是2025年的3月15日，时隔一年多，这个博客项目算是正式开始了。</p><span id="more"></span><p>过去一年，无意间浏览了许多独立博客的帖子，感受到了朴实文字的力量，因此考虑建立一个博客来记录自己的生活体验。</p><p>希望自己能坚持下去。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;博客项目文件的创建时间停留在2024年2月，今天是2025年的3月15日，时隔一年多，这个博客项目算是正式开始了。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
